@@ -1,4 +1,4 @@
-# Malchanau Aliaksand
+# Malchanau Aliaksandr
 ----
 
 ## How to reach me
