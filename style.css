@@ -1,0 +1,41 @@
+<style>
+  body {
+    font-family: 'Montserrat';
+    font-size: 15px;
+    display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  }  
+  h1 {
+    font-family: 'Montserrat';
+    font-size: 40px;
+    font-weight: bold;
+    color: #ffa500;
+  }
+  h2 {
+    font-family: 'Montserrat';
+    font-size: 25px;
+    font-weight: bold;
+    color: #ffa500;
+  }
+  * {
+    box-sizing: border-box;
+  }
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  .nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+  }
+  .nav-part {
+  padding: 0 20px;
+  line-height: 50px;
+}
+  html {
+  scroll-behavior: smooth; 
+}
+</style>
